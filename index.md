@@ -1,5 +1,5 @@
 ---
-title: "Ma page de recommandations"
+title: "Recommandations"
 order: 0
 in_menu: true
 ---
