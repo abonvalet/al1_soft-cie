@@ -5,22 +5,24 @@ in_menu: true
 ---
 # Pour randonner :
 
-Cartes IGN : [géoportail](https://www.geoportail.gouv.fr/)
+Cartes IGN : [geoportail.gouv](https://www.geoportail.gouv.fr/)
 Pour la carte des pentes, suivre :
 1. Données thématiques
 2. Développement durable, énergie
 3. Risques
 4. Carte des pentes
 
-Visualiser l’enneigement : [sentineige](https://sentineige.fr/)
+Visualiser l’enneigement : [sentineige.fr](https://sentineige.fr/)
 
-Estimations de distance : [open runner](https://www.openrunner.com/) (pas parfait)
+Estimations de distance : [openrunner.com](https://www.openrunner.com/) (pas parfait)
+
+Refuges, abris, cabanes dans les Pyrénées : [pyrenees-refuges.com](https://www.pyrenees-refuges.com)
 
 # Vélo :
 
-Trouver un itinéraire (ville ou route) : [geovelo](https://geovelo.app/fr/route)
+Trouver un itinéraire (ville ou route) : [geovelo.app](https://geovelo.app/fr/route)
 
-Estimations de distance : [open runner](https://www.openrunner.com/) (pas parfait)
+Estimations de distance : [openrunner.com](https://www.openrunner.com/) (pas parfait)
 
 
 # Dessin & Schéma :
