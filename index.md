@@ -6,6 +6,7 @@ in_menu: true
 # Pour randonner :
 
 Cartes IGN : [geoportail](https://www.geoportail.gouv.fr/)
+
 Pour la carte des pentes, suivre :
 1. Données thématiques
 2. Développement durable, énergie
@@ -17,6 +18,8 @@ Visualiser l’enneigement : [sentineige](https://sentineige.fr/)
 Estimations de distance : [openrunner](https://www.openrunner.com/) (pas parfait)
 
 Refuges, abris, cabanes dans les Pyrénées : [pyrenees-refuges](https://www.pyrenees-refuges.com)
+
+Trains : [carte du réseau sncf](https://www.sncf-reseau.com/fr/cartes/carte-du-reseau-ferre-national)
 
 # Vélo :
 
